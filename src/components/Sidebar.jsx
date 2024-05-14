@@ -10,7 +10,6 @@ export default function Sidebar() {
                 <FaXTwitter className="w-16 h-16 cursor-pointer p-3 hover:bg-gray-100 rounded-full transition-all duration-200" />
             </Link>
 
-
             <Link href="/" className='flex items-center p-3 rounded-full hover:bg-gray-100 transition-all gap-2 w-fit'>
                 <AiFillHome className="w-7 h-7" />
                 <span className="font-bold hidden xl:inline">Home</span>
